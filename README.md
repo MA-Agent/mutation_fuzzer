@@ -45,7 +45,8 @@ when the  12th byte is set to 01
 the 14th to ff
 and the 15th to ff (starting at 0)
 the converter crashes
-
+2) colortable.img
+whe the 22th byte is changed (one of the colortable bytes), the converter crashes
 
 
 
